@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) and applies Machine Learni
 What started as a standard behavioral analysis turned into a **Data Profiling and Anomaly Detection** investigation, using Machine Learning techniques to reverse-engineer the hardcoded rules used to create the dataset itself.
 
 ## 🛠️ Technologies and Libraries
-* **Python 3.x**
+* **Python 3.13.9**
 * **Pandas:** Data manipulation, cleaning, and grouping.
 * **Seaborn & Matplotlib:** Data visualization (KDE, Scatterplots, Boxplots).
 * **Scikit-Learn:** Predictive modeling (`RandomForestClassifier`, `DecisionTreeClassifier`) and evaluation metrics.
@@ -42,7 +42,7 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) e aplica modelos 
 O que começou como uma análise comportamental padrão transformou-se em uma investigação de **Data Profiling e Detecção de Anomalias**, utilizando técnicas de Machine Learning para fazer engenharia reversa nas regras de criação do próprio dataset.
 
 ## 🛠️ Tecnologias e Bibliotecas
-* **Python 3.x**
+* **Python 3.13.9**
 * **Pandas:** Manipulação, limpeza e agrupamento de dados.
 * **Seaborn & Matplotlib:** Visualização de dados (KDE, Scatterplots, Boxplots).
 * **Scikit-Learn:** Modelagem preditiva (`RandomForestClassifier`, `DecisionTreeClassifier`) e métricas de avaliação.
